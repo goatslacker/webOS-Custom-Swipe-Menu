@@ -1,0 +1,9 @@
+{
+	"id": "com.goatslacker.custom-swipe-menu",
+	"version": "1.0.0",
+	"vendor": "goatslacker",
+	"type": "web",
+	"main": "index.html",
+	"title": "custom-swipe-menu",
+	"icon": "icon.png"
+}
